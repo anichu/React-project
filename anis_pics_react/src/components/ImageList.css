@@ -1,0 +1,13 @@
+.image-box {
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+}
+
+.image-box img {
+  margin: 0.3rem 0.4rem;
+  width: 250px;
+}
