@@ -1,0 +1,12 @@
+.video-item {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+  margin: 1rem 0 !important;
+}
+.video-item.item img {
+  max-width: 180px;
+}
+.header-custom {
+  margin-left: 0.5rem;
+}
