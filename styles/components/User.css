@@ -1,0 +1,12 @@
+.userTransition {
+  animation: widthTransition 0.4s ease-in;
+}
+
+@keyframes widthTransition {
+  from {
+    height: 0rem;
+  }
+  to {
+    height: 10rem;
+  }
+}
