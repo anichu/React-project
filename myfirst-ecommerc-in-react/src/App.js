@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import styled from 'styled-components';
+import './App.css';
 import BackDrop from './components/BackDrop';
 import Cart from './components/Cart';
 import Header from './components/Header';
